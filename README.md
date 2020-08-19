@@ -28,6 +28,7 @@ Using unsupervised learning techniques to identify segments of the population th
 ## File Descriptions
 
 Data_Dictionary.md: Information file about the features in the provided datasets.
+
 Identify_Customer_Segments.ipynb: Jupyter Notebook divided into sections and guidelines for completing the project. The notebook provides more details and tips than the outline given here.
 
 ## After Implementation
